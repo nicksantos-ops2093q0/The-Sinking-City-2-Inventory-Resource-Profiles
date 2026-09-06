@@ -6,7 +6,7 @@
 | Platform | Windows / PC |
 | Steam game ID | 2825860 |
 | Functions | Inventory / Supplies / Damage / Exploration / Puzzle notes |
-| Download | [PC package](https://flyn.im/94ykBM) |
+| Download | [PC package](https://flyn.im/6PCpxq) |
 
 ## Setup
 

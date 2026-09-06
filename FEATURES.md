@@ -30,4 +30,4 @@ Save different resource and combat settings for exploration and practice.
 
 Prepare an exploration profile with your preferred supply and damage settings. Keep location notes beside the profile and switch configurations when you return to combat.
 
-[Download for PC](https://flyn.im/94ykBM)
+[Download for PC](https://flyn.im/6PCpxq)
